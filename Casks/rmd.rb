@@ -1,6 +1,6 @@
 cask "rmd" do
   version "0.1.0"
-  sha256 "2afe6db064566a60085c45eb2329ff9d79f45f15d3a889c7ea9cb42d25395e4f"
+  sha256 "d13cd52eb0b49df2ffd6658086b200f1eab17a38d3d8b1858a76c1ee8fddddf8"
 
   url "https://github.com/a8nhy6c/rmd_app/releases/download/v#{version}/RMD-#{version}.zip"
   name "RMD"
